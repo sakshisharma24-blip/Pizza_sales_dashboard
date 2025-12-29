@@ -1,4 +1,5 @@
 🍕 **Pizza Sales Dashboard – Power BI Project**
+
 📌 **Project Overview**
 
 This project presents an interactive Pizza Sales Dashboard built using Power BI to analyze sales performance, customer ordering behavior, and product preferences. The dashboard helps stakeholders understand revenue trends, peak demand periods, and customer choices across different pizza categories and sizes.
@@ -14,6 +15,7 @@ Average Orders per Day: 60
 Average Pizzas per Order: 2
 
 📈 **Insights & Analysis**
+
 🔹 **Sales Trend Analysis**
 
 Monthly sales analysis shows seasonal fluctuations, with higher order volumes during mid-year months.
